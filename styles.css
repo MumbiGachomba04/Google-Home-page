@@ -1,0 +1,44 @@
+/*font-family: 'Roboto', sans-serif;*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navigation{
+  
+    text-align:right;
+    text-decoration: none;
+   
+}
+nav>a:link{color: red}
+nav>a:visited{color: deeppink;}
+nav>a:hover{color: orangered;}
+
+
+
+.logo{
+    border-width: 5px;
+    border-color: black;
+    display: block;
+    width: 272px;
+    padding-top: 140px;
+    margin: 0 auto;
+    
+}
+
+form 
+
+{
+  text-align: center;  
+      
+}
+
+form>span>input{
+    background-color:  slategrey;
+}
+.search{
+    width: 400px;
+    height:50px;
+   border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    
+}
